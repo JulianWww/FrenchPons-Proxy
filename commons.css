@@ -1,0 +1,7 @@
+.disabled-button{
+  pointer-events: none;
+}
+
+.fullwidth {
+  width: 100%
+}
